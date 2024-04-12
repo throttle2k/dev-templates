@@ -37,10 +37,6 @@
         cargo-audit
         cargo-udeps
         clang
-        sqlx-cli
-        postgresql
-        flyctl
-        bunyan-rs
       ];
     };
   };
